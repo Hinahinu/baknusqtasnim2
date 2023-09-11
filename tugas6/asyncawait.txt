@@ -1,0 +1,9 @@
+async/await \
+async = async merupakan fungsi yang menjalankan asynchronous seperti mengambil data yang memerlukan waktu
+await = await merupakan fungsi untuk memberhentikan tugas asynchronous hingga selesai
+
+promise
+promise = sama halnya dengan async yang melakukan tugas dengan memerlukan waktu, namun terdapat 2 kemungkinan yaitu selesai dan gagal
+
+try catch
+try catch = merupakan cara untuk mengatasi masalah yang terjadi pada try, maka akan dilakukan penanganan pada catch
