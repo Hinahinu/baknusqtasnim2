@@ -1,0 +1,2 @@
+berjalannya javascript di berbagai platform karena para komunitas menciptakan framework javascript seperti node js, react js, dan nw js namun javascript sendiri
+dirancang untuk menjadi bahasa pemrograman yang bersifat platform-agnostic
